@@ -1,0 +1,8 @@
+Package: fr.lululombard.certremaintime
+Name: CertRenameTime
+Version: 0.0.2
+Architecture: iphoneos-arm
+Description: An app to check how much time is remaining for your yalu cert
+Maintainer: lululombard <contact@lululombard.fr>
+Author: lululombard <contact@lululombard.fr>
+Section: Utilities
